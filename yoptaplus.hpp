@@ -16,6 +16,7 @@
 #define дохуя true
 #define семечник main
 #define воткнуть <<
+#define отебать >>
 #define проебать for
 #define уебан <
 #define похуист >
