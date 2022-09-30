@@ -25,3 +25,4 @@
 #define впиздеть =
 #define чобля char
 #define чоблять char* 
+#define ыбля ;
