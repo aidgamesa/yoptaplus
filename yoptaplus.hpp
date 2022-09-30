@@ -1,5 +1,6 @@
-#ifndef YOPTAPLUS__
-#define YOPTAPLUS__
+#pragma once
+
+#define YOPTAPLUS__VERSION 0.1
 
 #define гы int
 #define моча {
@@ -24,5 +25,3 @@
 #define впиздеть =
 #define чобля char
 #define чоблять char* 
-
-#endif
