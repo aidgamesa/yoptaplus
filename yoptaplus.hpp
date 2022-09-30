@@ -1,6 +1,6 @@
 #pragma once
 
-#define YOPTAPLUS__VERSION 0.1
+#define YOPTAPLUS_VERSION 0.1
 
 #define гы int
 #define моча {
