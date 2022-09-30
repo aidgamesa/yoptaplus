@@ -20,5 +20,7 @@
 #define уебан <
 #define похуист >
 #define впиздеть =
+#define чобля char
+#define чоблять char* 
 
 #endif
