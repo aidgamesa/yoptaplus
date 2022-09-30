@@ -10,6 +10,7 @@
 #define залупу namespace
 #define семки std
 #define выебатся cout
+#define ахуеть   cin
 #define кончить endl
 #define вмазать return
 #define нихуя false
